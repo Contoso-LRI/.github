@@ -26,4 +26,4 @@
 
 ## [az-devops-managed-avs-nested-lab](https://github.com/Contoso-LRI/az-devops-managed-avs-nested-lab/actions)
 [![Continuous Delivery](https://github.com/Contoso-LRI/az-devops-managed-avs-nested-lab/actions/workflows/azure-devops-cd.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-avs-nested-lab/actions/workflows/azure-devops-cd.yaml)
-[![Continuous Integration](https://github.com/Contoso-LRI/az-devops-managed-avs-nested-lab/actions/workflows/azure-devops-cd.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-avs-nested-lab/actions/workflows/azure-devops-ci.yaml)
+[![Continuous Integration](https://github.com/Contoso-LRI/az-devops-managed-avs-nested-lab/actions/workflows/azure-devops-ci.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-avs-nested-lab/actions/workflows/azure-devops-ci.yaml)
