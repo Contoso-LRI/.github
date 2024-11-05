@@ -3,6 +3,7 @@
 ## [az-devops-managed-long-term-content](https://github.com/Contoso-LRI/az-devops-managed-long-term-content/actions)
 [![Continuous Delivery](https://github.com/Contoso-LRI/az-devops-managed-long-term-content/actions/workflows/azure-devops-cd.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-long-term-content/actions/workflows/azure-devops-cd.yaml)
 [![Continuous Integration](https://github.com/Contoso-LRI/az-devops-managed-long-term-content/actions/workflows/azure-devops-ci.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-long-term-content/actions/workflows/azure-devops-ci.yaml)
+[![Schedule PowerOn VMs](https://github.com/Contoso-LRI/az-devops-managed-long-term-content/actions/workflows/poweron-vms.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-long-term-content/actions/workflows/poweron-vms.yaml)
 
 ## [az-devops-managed-testing](https://github.com/Contoso-LRI/az-devops-managed-testing/actions)
 [![Continuous Delivery](https://github.com/Contoso-LRI/az-devops-managed-testing/actions/workflows/azure-devops-cd.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-testing/actions/workflows/azure-devops-cd.yaml)
