@@ -18,6 +18,9 @@
 [![Continuous Integration](https://github.com/Contoso-LRI/az-devops-managed-billing-jam/actions/workflows/azure-devops-ci.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-billing-jam/actions/workflows/azure-devops-ci.yaml)
 
 ## [az-devops-managed-avs-gcs](https://github.com/Contoso-LRI/az-devops-managed-avs-gcs/actions)
+
+> Can only be run on workstation
+
 [![Continuous Delivery](https://github.com/Contoso-LRI/az-devops-managed-avs-gcs/actions/workflows/azure-devops-cd.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-avs-gcs/actions/workflows/azure-devops-cd.yaml)
 [![Continuous Integration](https://github.com/Contoso-LRI/az-devops-managed-avs-gcs/actions/workflows/azure-devops-ci.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-avs-gcs/actions/workflows/azure-devops-ci.yaml)
 
