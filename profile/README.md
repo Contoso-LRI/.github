@@ -37,3 +37,7 @@
 ## [az-devops-managed-avs-vcloud-lab](https://github.com/Contoso-LRI/az-devops-managed-avs-vcloud-lab/actions)
 [![Continuous Delivery](https://github.com/Contoso-LRI/az-devops-managed-avs-vcloud-lab/actions/workflows/azure-devops-cd.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-avs-vcloud-lab/actions/workflows/azure-devops-cd.yaml)
 [![Continuous Integration](https://github.com/Contoso-LRI/az-devops-managed-avs-vcloud-lab/actions/workflows/azure-devops-ci.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-avs-vcloud-lab/actions/workflows/azure-devops-ci.yaml)
+
+## [az-devops-managed-avs-3rd-party-nva](https://github.com/Contoso-LRI/az-devops-managed-avs-3rd-party-nva/actions)
+[![Continuous Delivery](https://github.com/Contoso-LRI/az-devops-managed-avs-3rd-party-nva/actions/workflows/azure-devops-cd.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-avs-3rd-party-nva/actions/workflows/azure-devops-cd.yaml)
+[![Continuous Integration](https://github.com/Contoso-LRI/az-devops-managed-avs-3rd-party-nva/actions/workflows/azure-devops-ci.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-avs-3rd-party-nva/actions/workflows/azure-devops-ci.yaml)
