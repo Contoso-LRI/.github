@@ -1,4 +1,4 @@
-## Hi there 👋
+## Automated IaaC respositories
 
 ## [az-devops-managed-long-term-content](https://github.com/Contoso-LRI/az-devops-managed-long-term-content/actions)
 [![Continuous Delivery](https://github.com/Contoso-LRI/az-devops-managed-long-term-content/actions/workflows/azure-devops-cd.yaml/badge.svg)](https://github.com/Contoso-LRI/az-devops-managed-long-term-content/actions/workflows/azure-devops-cd.yaml)
