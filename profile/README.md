@@ -37,7 +37,7 @@
 
 * [az-devops-managed-avs-gcs](https://github.com/Contoso-LRI/az-devops-managed-avs-gcs)
   * GCS ressources: cannot use an Entra ID identity due to SFI
-* [az-lab-bootstrap(https://github.com/Contoso-LRI/az-lab-bootstrap)
+* [az-lab-bootstrap](https://github.com/Contoso-LRI/az-lab-bootstrap)
   * Bootstrapping of all automated ressources
 
 # Tooling
