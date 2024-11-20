@@ -42,8 +42,6 @@
 
 # Tooling
 
-## github-az-runner-docker
+## [github-az-runner-docker](https://github.com/Contoso-LRI/github-az-runner-docker)
 
-Docker image used to setup Self Hosted runners
-
-[![Docker build and push](https://github.com/Contoso-LRI/github-az-runner-docker/actions/workflows/docker-build-push.yaml/badge.svg)](https://github.com/Contoso-LRI/github-az-runner-docker/actions/workflows/docker-build-push.yaml)
+Docker image used to setup Self Hosted runners : [![Docker build and push](https://github.com/Contoso-LRI/github-az-runner-docker/actions/workflows/docker-build-push.yaml/badge.svg)](https://github.com/Contoso-LRI/github-az-runner-docker/actions/workflows/docker-build-push.yaml)
